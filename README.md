@@ -1,6 +1,5 @@
 # Khan_Faizan_HW-1
-This is the submission for the homework 1 for web development class
-
+This web page talks about an imaginary product quench, mainly cocussing on the layouting and grid funtions in a web page
 # Installation
 No installations are required
 
